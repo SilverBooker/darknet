@@ -1,0 +1,5 @@
+classes = 1
+train = /home/李谦/darknet-master/darknet-master/ali_train.txt
+valid = /home/李谦/darknet-master/darknet-master/ali_test.txt
+names = data/ali.names
+backup = backup
